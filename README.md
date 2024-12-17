@@ -4,5 +4,7 @@ How can we build and compare multiple classification models to predict a target 
 
 We implemented three popular classification algorithms:
 Logistic Regression
+
 K-Nearest Neighbors (KNN)
+
 Naive Bayes (GaussianNB)
