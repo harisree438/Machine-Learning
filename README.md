@@ -2,9 +2,20 @@
 How can we build and compare multiple classification models to predict a target variable, evaluate their performance, and assess their robustness using cross-validation?
 
 
-We implemented three popular classification algorithms:
-Logistic Regression
+# Objectives
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Implement and evaluate three popular classification models:
 
-K-Nearest Neighbors (KNN)
+1. Logistic Regression
 
-Naive Bayes (GaussianNB)
+2. K-Nearest Neighbors (KNN)
+
+3. Naive Bayes (GaussianNB)
+
+Compare model performance using key evaluation metrics, including:
+
+1. Accuracy
+2. Precision
+3. Recall
+4. F1 Score
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
